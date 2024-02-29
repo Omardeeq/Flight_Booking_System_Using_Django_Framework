@@ -125,6 +125,7 @@ def login_user(request):
             resp['msg'] = "Incorrect username or password"
     return HttpResponse(json.dumps(resp),content_type='application/json')
 
+
 def search_flight(request):
     context = context_data()
     context['page'] = 'Search Available Flight'
