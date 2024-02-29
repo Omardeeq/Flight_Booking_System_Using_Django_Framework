@@ -21,7 +21,6 @@ python manage.py makemigrations
 python manage.py migrate
 
 
-## Usage
 **- Run the development server:**
 
   python manage.py migrate
@@ -30,14 +29,18 @@ python manage.py migrate
 #**Run the development server:**
 
   python manage.py runserver
+
+  go to your browser :
+
+  http://127.0.0.1:8000/
   
 
 # the Admin password in Django admin page is 
-
+**
 Username : Omar
 Password : Omar
 
-**#The normal user credentials are:**
+**#The normal user credentials are**:
 
 username : Admin 
 password :Admin@12345
