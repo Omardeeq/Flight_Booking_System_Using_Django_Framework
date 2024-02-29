@@ -5,6 +5,7 @@ This is a flight booking system built with Django and this project contains five
 ## Installation
 
 **1. Clone the repository:**
+
 git clone https://github.com/Omardeeq/Flight_Booking_System_Using_Django_Framework.git
 
 **2. Install dependencies:**
